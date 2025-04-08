@@ -1,1 +1,1 @@
-# Perceptron
+### A simple perceptron via MNIST
